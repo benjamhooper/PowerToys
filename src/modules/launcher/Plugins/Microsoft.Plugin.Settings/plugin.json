@@ -1,0 +1,12 @@
+{
+    "ID":"X54ZCKOK05LVX73E8R711YSEYRGQYPNG",
+    "ActionKeyword":"settings",
+    "Name":"Settings",
+    "Description":"Provide opening settings menus within Windows",
+    "Author":"benjamhooper",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"https://aka.ms/powertoys",
+    "ExecuteFileName":"Microsoft.Plugin.Settings.dll",
+    "IcoPath":"Images\\shell.dark.png"
+}
